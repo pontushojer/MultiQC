@@ -1,0 +1,27 @@
+ation:
+
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Ewels"
+  given-names: "Phil"
+title: "MultiQC"
+version: 1.11
+url: "https://github.com/ewels/MultiQC"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Ewels"
+    given-names: "Phil"
+  - family-names: "Magnusson"
+    given-names: "Måns"
+  - family-names: "Lundin"
+    given-names: "Sverker"
+  - family-names: "Käller"
+    given-names: "Max"  
+  doi: "10.1093/bioinformatics/btw354"
+  journal: "Bioinformatics"
+  title: "MultiQC: Summarize analysis results for multiple tools and samples in a single report."
+  issue: 19
+  volume: 32
+  year: 2016
